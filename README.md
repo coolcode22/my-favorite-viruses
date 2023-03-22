@@ -1,1 +1,1 @@
-# my-favorite-viruses
+# my-favorite-viruses *warning all viruses are not saftey to run i do not want you using host computer please use a vm like https://www.virtualbox.org/ I AM NOT RESPONCABLE FOR YOUR COMPUTER DIEING if you run on host computer for fun your dumb (if using chrome and it says dangerous go to chrome://downloads to download anyway
